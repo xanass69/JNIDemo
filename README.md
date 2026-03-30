@@ -111,7 +111,7 @@ It provides a solid foundation for advanced topics such as:
 
 Student Project — Android Security / JNI Lab
 
-![photo1.png](screenshots/photo1.png)
-![photo2.png](screenshots/photo2.png)
-![photo3.png](screenshots/photo3.png)
-![photo4.png](screenshots/photo4.png)
+![capture1.png](screenshots/capture1.png)
+![capture2.png](screenshots/capture2.png)
+![capture3.png](screenshots/capture3.png)
+![capture4.png](screenshots/capture4.png)

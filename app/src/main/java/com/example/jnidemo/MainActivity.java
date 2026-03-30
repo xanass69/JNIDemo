@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
         tvHello.setText(helloFromJNI());
 
-        tvFact.setText("Factoriel(10) = " + factorial(10));
+        tvFact.setText("Factoriel(20) = " + factorial(20));
 
         tvReverse.setText("Reverse empty: " + reverseString(""));
         int[] nums = {};
