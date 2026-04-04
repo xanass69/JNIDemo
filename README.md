@@ -111,7 +111,7 @@ It provides a solid foundation for advanced topics such as:
 
 Student Project — Android Security / JNI Lab
 
-![capture1.png](screenshots/capture1.png)
-![capture2.png](screenshots/capture2.png)
-![capture3.png](screenshots/capture3.png)
-![capture4.png](screenshots/capture4.png)
+<img width="243" height="236" alt="capture1" src="https://github.com/user-attachments/assets/7fe78217-b981-449c-8be9-10686890a109" />:
+<img width="206" height="173" alt="capture2" src="https://github.com/user-attachments/assets/9ae642e5-c321-45f0-96b2-04a73b0005b3" />
+<img width="208" height="200" alt="capture3" src="https://github.com/user-attachments/assets/e7854827-ccd4-42f9-896e-825de70b251e" />
+<img width="456" height="344" alt="capture4" src="https://github.com/user-attachments/assets/534f636e-e233-4a86-8ea2-4e339d9f88ce" />
